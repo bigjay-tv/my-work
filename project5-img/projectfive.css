@@ -1,0 +1,207 @@
+body{
+    background-color: rgb(240, 197, 197);
+    margin-top: 10px;
+    font-family: sans-serif;
+}
+
+.nav-links ul li{
+    display: inline;
+    list-style: none;
+    margin-right: 20px;
+}
+.nav-links ul li a{
+    text-decoration: none;
+    color: #000;
+    margin-right: 50px;
+}
+
+.nav-links{
+    display: flex;
+}
+
+.logo{
+    margin-left: 30px;
+}
+
+.navber{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+}
+
+/* ...section1....  */
+
+.section1 p{
+    width: 500px;
+}
+
+#section1{
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+    margin-top: 80px;
+}
+
+.sect1img{
+    margin-right: 50px;
+}
+
+.section1{
+    margin-left: 50px;
+    margin-top: 80px;
+}
+
+/* ....section2...  */
+
+
+.section2 p{
+width: 400px;
+text-align: center;
+}
+
+.sec-text p{
+    width: 400px;
+    text-align: center;
+}
+.sec-text{
+    display: flex;
+    align-items: center;
+}
+.sec-content1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: -10;
+}
+#section2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 10px;
+}
+
+/* ...section3...  */
+
+.head{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section3{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    margin-bottom: 180px;
+}
+ 
+.img1{
+    text-align: center;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.img2{
+    text-align: center;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.img3{
+    text-align: center;
+    background-color: white;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+#btn{
+    background-color: rgb(206, 24, 24);
+    color: white;
+    border: 1px solid rgb(206, 24, 24);
+    border-radius: 50px;
+    width: 13em;
+    height: 3em;
+    text-align: center;
+}
+.ooo{
+    text-align: center;
+}
+
+.sction3{
+     /* display: flex; */
+}
+
+/* ..second to last section...  */
+
+.jj{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    background-color: orange ;
+    height: 130px;
+    padding: 45px;
+}
+
+.jj h3{
+    font-size: 25px;
+    color: white;
+    background-color: orange;
+}
+
+/* ...last section...  */
+
+.ja{
+    margin-left: 100px;
+}
+.ja ul li{
+    list-style: none;
+}
+
+.ja ul li a{
+    text-decoration: none;
+    color: white;
+}
+.jo ul li{
+    list-style: none;
+}
+
+.jo ul li a{
+    text-decoration: none;
+    color: white
+}
+.jo{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.llogo{
+    margin-top: -100px;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(35, 18, 18);
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#class{
+    /* margin-top: 100px; */
+}
+
+.last{
+    margin-left: 150px;
+}
+.lbtn{
+    margin-left: 40px;
+    margin-top: 10px;
+}
